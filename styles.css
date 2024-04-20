@@ -12,55 +12,46 @@ body {
     overflow-x: hidden; /* Prevents horizontal scrolling */
  }
  
- 
  /* Styles for the About page */
- .about-background {
-    background-image: url('../images/nebulae\(2\).jpeg');
- }
- 
- 
- /* Styles for the Join page */
- .join-background {
-    background-image: url('../images/rocketship(2).jpeg');
- }
- 
- 
- /* Styles for the FAQ page */
- .faq-background {
-    background-image: url('../images/milky-way.jpeg');
- }
- 
- 
- /* Styles for the Courses page */
- .courses-background {
-    background-image: url('../images/pyramid.jpeg');
- }
- 
- 
- /* Styles for the Contact page */
- .contact-background {
-    background-image: url('../images/matrix(3).jpeg');
- }
- 
- 
- /* Styles for the Community page */
- .community-background {
-    background-image: url('../images/bears.jpeg');
- }
- 
- 
- /* Styles for the Resources page */
- .resources-background {
-    background-image: url('../images/gold.jpeg');
- }
- 
- 
- /* Styles for the X page */
- .X-background {
-    background-image: url('../images/X.jpeg');
- }
- 
- 
+.about-background {
+    background-image: url('../images/nebulae(2).jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the Join page */
+.join-background {
+    background-image: url('../images/rocketship(2).jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the FAQ page */
+.faq-background {
+    background-image: url('../images/milky-way.jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the Courses page */
+.courses-background {
+    background-image: url('../images/pyramid.jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the Contact page */
+.contact-background {
+    background-image: url('../images/matrix(3).jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the Community page */
+.community-background {
+    background-image: url('../images/bears.jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the Resources page */
+.resources-background {
+    background-image: url('../images/gold.jpeg'); /* Ensure the path is correct and file exists */
+}
+
+/* Styles for the X page */
+.X-background {
+    background-image: url('../images/X.jpeg'); /* Ensure the path is correct and file exists */
+}
+
  /* Link styles */
  a {
     color: #FFFFFF; /* White link color for readability */
