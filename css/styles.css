@@ -12,46 +12,52 @@ body {
     overflow-x: hidden; /* Prevents horizontal scrolling */
  }
  
-/* Styles for the About page */
-.about-background {
-   background-image: url('../images/nebulae(2).png');
-}
-
-/* Styles for the Join page */
-.join-background {
-   background-image: url('../images/rocketship(2).png');
-}
-
-/* Styles for the FAQ page */
-.faq-background {
-   background-image: url('../images/milky-way.png');
-}
-
-/* Styles for the Courses page */
-.courses-background {
-   background-image: url('../images/pyramid.png');
-}
-
-/* Styles for the Contact page */
-.contact-background {
-   background-image: url('../images/matrix(3).png');
-}
-
-/* Styles for the Community page */
-.community-background {
-   background-image: url('../images/bears.png');
-}
-
-/* Styles for the Resources page */
-.resources-background {
-   background-image: url('../images/gold.png');
-}
-
-/* Styles for the X page */
-.X-background {
-   background-image: url('../images/X.png');
-}
-
+ /* Styles for the About page */
+ .about-background {
+    background-image: url('../images/nebulae\(2\).jpeg');
+ }
+ 
+ 
+ /* Styles for the Join page */
+ .join-background {
+    background-image: url('../images/rocketship(2).jpeg');
+ }
+ 
+ 
+ /* Styles for the FAQ page */
+ .faq-background {
+    background-image: url('../images/milky-way.jpeg');
+ }
+ 
+ 
+ /* Styles for the Courses page */
+ .courses-background {
+    background-image: url('../images/pyramid.jpeg');
+ }
+ 
+ 
+ /* Styles for the Contact page */
+ .contact-background {
+    background-image: url('../images/matrix(3).jpeg');
+ }
+ 
+ 
+ /* Styles for the Community page */
+ .community-background {
+    background-image: url('../images/bears.jpeg');
+ }
+ 
+ 
+ /* Styles for the Resources page */
+ .resources-background {
+    background-image: url('../images/gold.jpeg');
+ }
+ 
+ 
+ /* Styles for the X page */
+ .X-background {
+    background-image: url('../images/X.jpeg');
+ }
  
  /* Link styles */
  a {
